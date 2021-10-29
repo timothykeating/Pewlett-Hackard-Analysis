@@ -1,0 +1,34 @@
+-- ### Instructions
+-- * Determine the count of actor first names ordered in descending order.
+from actor
+group by first_name
+order by 2 desc
+
+-- * Determine the average rental duration for each rating rounded to two decimals. Order these in ascending order.
+select rating, round(avg(rental_duration),2) as "Duration"
+from film
+group by rating
+order by 2
+
+-- * Determine the top 10 average replace costs for length of the movie. 
+select length, rating, round(avg(replacement_cost),2) as "Cost", count(length)
+from film
+group by rating, length
+order by length
+limit 10
+
+
+-- -- ### Bonus
+
+-- * Using the city and country tables, determine the number of cities in each country
+-- from the database in descending order.
+select cou.country, count(city.city)
+from country cou
+left join city
+on city.country_id=cou.country_id
+group by cou.country
+order by 2 desc
+
+select count(*)
+from city
+where country_id=44
