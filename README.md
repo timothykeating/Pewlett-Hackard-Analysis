@@ -9,24 +9,21 @@ We have discovered results, as follows -->
 
 2. The expected retirees are predominantly Senior level workers.  Senior Engineers are approx. 32% of the expected retirees, while Senior Staff are almost the same - approx. 31% of the expected retirees.
 
-![Expected Retirees by Job Title]
-(https://github.com/timothykeating/Pewlett-Hackard-Analysis/blob/8ca032747065f6124c6821033e4b5fb626c91bb3/Data/Percentages.png)
+![Expected Retirees by Job Title](https://github.com/timothykeating/Pewlett-Hackard-Analysis/blob/8ca032747065f6124c6821033e4b5fb626c91bb3/Data/Percentages.png)
 
 3. 1'549 employees have been identified as potential mentors, meaning that they were born in 1965.
 
 4. 569 employees have been identified as mentors, with the job title Senior Staff.  These employees will be important to filling the Senior Staff folks who are potential retirees, identified above as a big set of all potential retirees.  
 PH_Corporation will need to find new talent in the Engineer job title, as there are only 169 Senior Engineers among the mentors group.   
 
-![Mentors]
-(https://github.com/timothykeating/Pewlett-Hackard-Analysis/blob/8ca032747065f6124c6821033e4b5fb626c91bb3/Data/Mentors.png)
+![Mentors](https://github.com/timothykeating/Pewlett-Hackard-Analysis/blob/8ca032747065f6124c6821033e4b5fb626c91bb3/Data/Mentors.png)
 
 
 ## Summary
 569 employees have been identified as mentors, with the job title Senior Staff.  These employees will be important to filling the Senior Staff folks who are potential retirees, identified above as a big set of all potential retirees.  
 PH_Corporation will need to find new talent in the Engineer job title, as there are only 169 Senior Engineers among the mentors group.   
 
-![Mentors]
-(https://github.com/timothykeating/Pewlett-Hackard-Analysis/blob/8ca032747065f6124c6821033e4b5fb626c91bb3/Data/Mentors.png)
+![Mentors](https://github.com/timothykeating/Pewlett-Hackard-Analysis/blob/8ca032747065f6124c6821033e4b5fb626c91bb3/Data/Mentors.png)
 
 
 
